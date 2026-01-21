@@ -1,0 +1,51 @@
+.about-container {
+  display: flex;
+  gap: 30px;
+  margin-top: 25px;
+  align-items: center;
+}
+
+/* Left */
+.about-left {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+}
+
+.about-img {
+  width: 280px;
+  height: 280px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center 25%;
+  border: 5px solid #edeef0;
+}
+
+
+
+.about-name{
+  color: #204671;   /* Blue */
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 5px;
+}
+
+
+/* Right */
+.about-right {
+  flex: 2;
+}
+
+.about-subtitle {
+  font-size: 12px;
+  margin-bottom: 10px;
+  color: #204671;
+}
+
+/* Responsive for mobile */
+@media (max-width: 768px) {
+  .about-container {
+    flex-direction: column;
+    text-align: center;
+  }
+}
