@@ -1,0 +1,2 @@
+.about-container{align-items:center;display:flex;gap:30px;margin-top:25px}.about-left{display:flex;flex:1 1;justify-content:center}.about-img{border:5px solid #edeef0;border-radius:50%;height:280px;object-fit:cover;object-position:center 25%;width:280px}.about-name{color:#204671;font-size:24px;font-weight:700;margin-bottom:5px}.about-right{flex:2 1}.about-subtitle{color:#204671;font-size:12px;margin-bottom:10px}@media (max-width:768px){.about-container{flex-direction:column;text-align:center}}
+/*# sourceMappingURL=203.70fe0a5d.chunk.css.map*/

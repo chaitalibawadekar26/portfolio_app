@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkportfolio_react=self.webpackChunkportfolio_react||[]).push([[850],{850(e,s,r){r.r(s),r.d(s,{default:()=>l});r(43);var a=r(579);function l(){return(0,a.jsxs)("section",{className:"section",id:"resume",children:[(0,a.jsx)("h2",{className:"title",children:"Resume"}),(0,a.jsx)("p",{className:"subtext",children:"Download my resume from below:"}),(0,a.jsx)("a",{className:"btn",href:"https://example.com",target:"_blank",rel:"noreferrer",children:"Download Resume"})]})}}}]);
+//# sourceMappingURL=850.c48dc5f7.chunk.js.map

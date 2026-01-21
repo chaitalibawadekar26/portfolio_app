@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio_app/static/css/main.669332a0.css",
+    "main.js": "/portfolio_app/static/js/main.c1fcea33.js",
+    "static/css/203.70fe0a5d.chunk.css": "/portfolio_app/static/css/203.70fe0a5d.chunk.css",
+    "static/js/203.fdc14a89.chunk.js": "/portfolio_app/static/js/203.fdc14a89.chunk.js",
+    "static/js/443.7182ae9c.chunk.js": "/portfolio_app/static/js/443.7182ae9c.chunk.js",
+    "static/js/699.50283e1c.chunk.js": "/portfolio_app/static/js/699.50283e1c.chunk.js",
+    "static/js/850.c48dc5f7.chunk.js": "/portfolio_app/static/js/850.c48dc5f7.chunk.js",
+    "static/js/57.ab0a8458.chunk.js": "/portfolio_app/static/js/57.ab0a8458.chunk.js",
+    "static/media/chaitaliIDPhoto.jpeg": "/portfolio_app/static/media/chaitaliIDPhoto.e257e3d2e6090d1e790a.jpeg",
+    "index.html": "/portfolio_app/index.html",
+    "main.669332a0.css.map": "/portfolio_app/static/css/main.669332a0.css.map",
+    "main.c1fcea33.js.map": "/portfolio_app/static/js/main.c1fcea33.js.map",
+    "203.70fe0a5d.chunk.css.map": "/portfolio_app/static/css/203.70fe0a5d.chunk.css.map",
+    "203.fdc14a89.chunk.js.map": "/portfolio_app/static/js/203.fdc14a89.chunk.js.map",
+    "443.7182ae9c.chunk.js.map": "/portfolio_app/static/js/443.7182ae9c.chunk.js.map",
+    "699.50283e1c.chunk.js.map": "/portfolio_app/static/js/699.50283e1c.chunk.js.map",
+    "850.c48dc5f7.chunk.js.map": "/portfolio_app/static/js/850.c48dc5f7.chunk.js.map",
+    "57.ab0a8458.chunk.js.map": "/portfolio_app/static/js/57.ab0a8458.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.669332a0.css",
+    "static/js/main.c1fcea33.js"
+  ]
+}

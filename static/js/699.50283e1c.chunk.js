@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkportfolio_react=self.webpackChunkportfolio_react||[]).push([[699],{699(s,e,c){c.r(e),c.d(e,{default:()=>a});c(43);var i=c(579);function a(){return(0,i.jsxs)("section",{className:"section",id:"skills",children:[(0,i.jsx)("h2",{className:"title",children:"Skills"}),(0,i.jsx)("div",{className:"grid",children:["HTML","CSS","JavaScript","React","GitHub","API"].map((s,e)=>(0,i.jsx)("div",{className:"card",children:(0,i.jsx)("h3",{children:s})},e))})]})}}}]);
+//# sourceMappingURL=699.50283e1c.chunk.js.map
